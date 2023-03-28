@@ -7,7 +7,7 @@ Q9) Write code that :
     prints Greetings! if anythhing else is stored in spam
 """
 
-spam = int(input('Enter a number.'))
+spam = int(input('Enter a number.\n'))
 
 if spam==1:
     print('Hello')
