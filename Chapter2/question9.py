@@ -7,11 +7,11 @@ Q9) Write code that :
     prints Greetings! if anythhing else is stored in spam
 """
 
-spam = int(input('Enter a number.\n'))
+spam = int(input("Enter a number.\n"))
 
-if spam==1:
-    print('Hello')
-elif spam==2:
-    print('Howdy')
+if spam == 1:
+    print("Hello")
+elif spam == 2:
+    print("Howdy")
 else:
-    print('Greetings!')
+    print("Greetings!")

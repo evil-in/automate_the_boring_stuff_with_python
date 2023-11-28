@@ -7,13 +7,13 @@ Chapter 2 Exercises:
 @author: preet
 """
 
-print('Writing a loop using a for loop:')
+print("Writing a loop using a for loop:")
 
 for i in range(10):
-    print(i+1)
-    
-print('Writing a loop using a while loop')
-j=1
-while j<11:
+    print(i + 1)
+
+print("Writing a loop using a while loop")
+j = 1
+while j < 11:
     print(j)
-    j+=1
+    j += 1
